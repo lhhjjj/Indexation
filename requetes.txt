@@ -1,0 +1,44 @@
+//Introduction de WebPage par une exemple
+1. Tout procédures
+je vuex les articles qui parlent de sprot et de cartographie
+
+//Correction
+je vuex les articles qui parlent de sprot et cartographie
+
+//GRAMMAIRE
+//Temps COUNT
+combien d'articles traitent un thème historique et ont été écrit en 2013
+je voudrais le nombre d’articles publiés en novembre 2012
+combien d’articles ont été publiés au mois décembre ?
+donnez moi des articles parus au 21 juin 2011
+
+//Titre
+articles dont le titre contient tara oceans polar circle
+je cherche les articles dont le titre contient le mot performants
+
+//Rubiruqe
+je veux les articles qui parlent du fauteuil roulant et qui ont pour rubrique « actualité innovation »
+afficher la liste des articles de la rubrique en direct des laboratoires
+je veux les articles qui a le numéro 291 dans la rubrique "du côté des pôles"
+
+//Mot
+Affiche les articles qui concernent l'hydrographie ou l'océanographie et laneurotoxicité
+cuisine moléculaire
+articles parlant d'innovation
+quels sont les articles qui parlent des robots et des chirurgiens ?
+
+//Numero
+donne moi les articles dont le numéro est inférieur à 270 
+
+//Auteur
+je veux les articles écrit par sergio.ciliberto@ens-lyon.fr
+je veux les contacts  de numéro 270
+mathias.fink@espci.fr 
+
+
+//Complexe
+je voudrais les articles sur "environnement" qui ne sont pas dans la rubrique "focus" 
+je voudrais les articles sur "environnement" qui ne sont pas dans la rubrique "focus" et qui sont publiés en juin 2013
+articles dont la rubrique est "horizon enseignement" mais  pas parlant d'ingénieurs
+Je veux les articles sur l'environnement ou l'innovation sans gouvernement
+je veux les articles de 2014 et de la rubrique focus et parlant de la santé
